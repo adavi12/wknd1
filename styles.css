@@ -1,0 +1,15 @@
+h1{
+  font-size: 48px;
+}
+h1, h2{
+  font-family:"Times New Roman", Georgia, serif;
+  font-style:normal;
+}
+
+h2{
+  font-size: 36px;
+}
+
+.table-text-center th, .table-text-center td {
+    text-align: center;
+}
